@@ -19,5 +19,6 @@ How to use this demo:
 6.used apkpatch to make patch between old.apk & new.apk
 7.install old.apk & click the button,see the old string;
 8.change patch name & use adb push to push patch to /scard/
-9.kill testapk & restart it(indeed it dose't need to restart.we restart it here,cause we put the loadPatch operation in application class)
+9.kill testapk & restart it(indeed it dose't need to restart.
+we restart it here,cause we put the loadPatch operation in application class)
 
