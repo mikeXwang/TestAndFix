@@ -11,6 +11,17 @@ https://github.com/alibaba/AndFix/tree/master/tools
 
 How to use this demo:
 
+You can do testing directly with the files in /TestAndFix/example/
+
+1.adb install -r old.apk,click button see the strings
+
+2.adb push out.apatch /sdcarc/
+
+3.kill the app,restart it,click the button see the strings
+
+------------------------------------------------------
+The fllows is testing steps:
+
 1.pull the code TestAndFix
 
 
