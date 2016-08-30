@@ -28,5 +28,6 @@ How to use this demo:
 
 8.change patch name & use adb push to push patch to /scard/
 
-9.kill testapk & restart it(indeed it dose't need to restart.we restart it here,cause we put the loadPatch operation in application class)
+9.kill testapk & restart it,click the button,see the new string.
+(indeed it dose't need to restart.we restart it here,cause we put the loadPatch operation in application class)
 
