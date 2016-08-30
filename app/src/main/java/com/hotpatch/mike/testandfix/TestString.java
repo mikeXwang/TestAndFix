@@ -6,7 +6,7 @@ package com.hotpatch.mike.testandfix;
 public class TestString {
 
     public String getString() {
-//        return "bug string,we need help from AndFix";
-        return "Fixed string.AndFix works fine!!!";
+        return "bug string,we need help from AndFix";
+//        return "Fixed string.AndFix works fine!!!";
     }
 }
